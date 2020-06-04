@@ -1,3 +1,7 @@
+client
+1. Using react for client side
+2. Install "npm i"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
